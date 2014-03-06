@@ -6,7 +6,9 @@ Your Public Site
 To get started, open the index.html file to find instructions and examples. You'll start your editing there!
 
 1. **I love puppies**
-2. # Madison Leach
+2. Heading
+
+### Madison Leach
 3. ![alt text](http://static4.businessinsider.com/image/51e13aeaeab8ea2e4800001a/a-connecticut-town-is-trying-to-ban-the-sale-of-puppies.jpg "Logo Title Text 1")
 4. [facebook](http://www.facebook.com)
 5. Woo!
